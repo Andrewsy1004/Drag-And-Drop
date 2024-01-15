@@ -17,9 +17,7 @@ export const TaskPages = () => {
         <NoteTasks title='Finished' task={ doneTasks } status='done' />
      </div>
 
-    
-    
-    
+        
     </>
   )
   

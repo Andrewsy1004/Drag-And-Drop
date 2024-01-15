@@ -16,7 +16,7 @@ export const useTasks = ({ status }: Opctions ) => {
     
     const onTaskDrop = useTaskStore(state => state.onTaskDrop)
     
-    const draggingTaskId = useTaskStore(state => state.draggingTaskId)
+    // const draggingTaskId = useTaskStore(state => state.draggingTaskId)
     
     const addNewTask = useTaskStore(state => state.addTask)
     

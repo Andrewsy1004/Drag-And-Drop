@@ -1,4 +1,4 @@
-import {TaskPages} from './pages/TaskPages';
+import { TaskPages } from './pages/TaskPages';
 
 export const App = () => {
   return (
